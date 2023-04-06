@@ -2,6 +2,7 @@
 Used ChatGPT API inside Python which has connectivity with multiple databases i.e SQL, MySql, MongoDB for Data Manipulation and Retrieval
 Using Simple language to ask for requirement and this program will understand the problem,generate query itself with the help of ChatGPT API and give output.
 
+# Oracle (SQLplus)
 ![Screenshot 2023-04-06 184045](https://user-images.githubusercontent.com/114352465/230388653-ee8fd210-bbc8-40c5-87e5-c95630ba7e7c.png)
 
 ![2 1](https://user-images.githubusercontent.com/114352465/227759714-7a3c0342-7cbe-4e7d-9672-bbd318113ca0.png)
