@@ -1,6 +1,6 @@
 # ChatGPT-API-in-Python-For-Database-Efficient-Data-Retrieval-and-Manipulation
 Used ChatGPT API inside Python which has connectivity with multiple databases i.e SQL, MySql, MongoDB for Data Manipulation and Retrieval
-Using Simple language to ask for requirement and this program will understand the problem,generate query itself with the help of ChatGPT API and give Output
+Using Simple language to ask for requirement and this program will understand the problem,generate query itself with the help of ChatGPT API and give output.
 
 ![Screenshot 2023-04-06 184045](https://user-images.githubusercontent.com/114352465/230388653-ee8fd210-bbc8-40c5-87e5-c95630ba7e7c.png)
 
