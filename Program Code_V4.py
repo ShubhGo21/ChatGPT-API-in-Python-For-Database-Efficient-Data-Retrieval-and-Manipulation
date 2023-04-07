@@ -5,21 +5,6 @@ Created on Fri Apr  7 10:32:00 2023
 @author: shubh
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  4 11:05:40 2023
-
-@author: shubh
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  4 09:46:40 2023
-
-@author: shubh
-"""
-# MongoDB work pending
-
 import sys
 import json
 import openai
