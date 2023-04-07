@@ -26,4 +26,6 @@ Using Simple language to ask for requirement and this program will understand th
 
 ![mongo output python](https://user-images.githubusercontent.com/114352465/227759699-a1a07e79-253d-406f-92ad-ccc1725bc52d.png)
 
+![image](https://user-images.githubusercontent.com/114352465/230555478-d9046485-ce2b-43e5-a1a6-b8e3bd074e3b.png)
+
 ![mongo output zdatabase](https://user-images.githubusercontent.com/114352465/227759332-657c8437-738c-41d0-93f8-b3c906a88573.png)
